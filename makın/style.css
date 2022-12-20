@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head1{
+    width: 100%;
+    padding: 20px;
+    line-height: 36px;
+    display: flex;
+    justify-content:space-between;
+    font-size: 20px;
+
+}
+.head1 div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head1 a{
+    color: black;
+    text-decoration: none;
+}
+.head1 a:hover{
+    text-decoration: underline;
+}
+.nav2 img{
+    vertical-align: middle;
+    width: 30px;
+
+}
+
+  
+  
+.nav2{
+    width: 220px;
+}
+.nav1 a{
+    width: 60px;
+    
+}
+#sign{
+    background-color: #4285F4;
+    color: white;
+    padding: 8PX;
+    border: none;
+    font-weight: 700;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    width: 100%;
+}
+.google{
+    display: block;
+    margin-top: 250px;
+    text-align: center;
+}
+#microphone{
+    position: relative;
+    max-width: 20px;
+    top: 5px;
+    right: 60px;
+    height: 20px;
+}
+#search-ara {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 10px;
+    right: 460px ;
+
+}
+input {
+    font-size: 18px;
+    height: 39px;
+    width: 460px;
+    border-radius: 25px;
+    border: 1px solid rgb(212, 206, 206);
+    padding: 5px;
+    padding-left: 60px;
+}
+.mk{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.ak{
+    text-align: center;
+    margin-bottom: 30px;
+    
+    
+
+    
+
+}
+#ak1{
+    padding: 12px;
+    background-color: rgba(224, 228, 233, 0.973);
+    border: none;
+
+}
+#ak2{
+    padding: 12px;
+background-color:     rgba(224, 228, 233, 0.973);
+border: none;
+}
+.par{
+    text-align: center;
+    
+}
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
